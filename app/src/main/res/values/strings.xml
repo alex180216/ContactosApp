@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ContactosApp</string>
+    <!--Item List Contacto-->
+    <string name="tv_nombre">Alex Mendoza</string>
+    <string name="tv_empresa">Underc0de</string>
+
+    <!--Items Menu Main-->
+    <string name="item_nuevoContacto">Nuevo Contacto</string>
+    <string name="item_search">Buscar</string>
+    <string name="item_switch">Cambiar Vista</string>
+
+    <!--Items Menu nuevo contacto-->
+    <string name="item_guardar_nuevo">Guardar Nuevo</string>
+
+    <!--Items detalle-->
+    <string name="item_edad">Edad</string>
+    <string name="item_peso">Peso</string>
+    <string name="item_direccion">Direccion</string>
+    <string name="item_telefono">Telefono</string>
+    <string name="item_email">Email</string>
+
+    <!--Activity Nuevo contacto-->
+    <string name="ingresa_nombre">Nombre</string>
+    <string name="ingresa_apellido">Apellido</string>
+    <string name="ingresa_empresa">Empresa</string>
+
+    <!--Items Menu detalle contacto-->
+    <string name="item_eliminar_contacto">Eliminar Contacto</string>
+    <string name="item_editar_contacto">Editar Contacto</string>
+</resources>
